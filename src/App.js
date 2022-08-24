@@ -6,7 +6,11 @@ export default function App() {
       <h1>Weather App</h1>
       <footer>
         This project is coded by{" "}
-        <a href="" target="_blank" rel="noreferrer">
+        <a
+          href="https://peppy-pika-fa046e.netlify.app"
+          target="_blank"
+          rel="noreferrer"
+        >
           Lacey Chaney
         </a>{" "}
         and is{" "}
