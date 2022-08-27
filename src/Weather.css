@@ -31,7 +31,7 @@
 
 .Weather canvas {
   margin-right: 10px;
-  margin-top: 20px;
+  margin-top: 5px;
   display: inline-block;
 }
 
@@ -50,4 +50,8 @@
   position: relative;
   line-height: 1;
   top: -34px;
+}
+
+.Weather a {
+  text-decoration: none;
 }
