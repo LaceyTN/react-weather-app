@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://peppy-pika-fa046e.netlify.app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Lacey Chaney
           </a>{" "}
@@ -20,7 +20,7 @@ export default function App() {
           <a
             href="https://github.com/LaceyTN/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
